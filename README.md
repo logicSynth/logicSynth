@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @logicSynth
+# 👋 Hi, I’m @logicSynth
 - 👀 I’m interested in goLang and flutter 
 - 🌱 I’m currently learning goLang 
 - 💞️ I’m looking to collaborate on a project 

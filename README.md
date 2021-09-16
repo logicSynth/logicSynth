@@ -11,7 +11,9 @@
 ## 📫 How to reach me ...
 ### email
   - vicudoh345@gmail.com
-### [Twitter](http://twitter.com/@vic_magnifico)
+  
+### Twitter
+  - [Twitter](http://twitter.com/@vic_magnifico)
 
 
 <!---

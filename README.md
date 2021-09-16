@@ -13,7 +13,7 @@
   - vicudoh345@gmail.com
   
 ### Twitter
-  - [Twitter](http://twitter.com/@vic_magnifico)
+  - [@vic_magnifico](http://twitter.com/@vic_magnifico)
 
 
 <!---

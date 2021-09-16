@@ -9,8 +9,7 @@
 ## 💞️ I’m looking to collaborate on a project 
 
 ## 📫 How to reach me ...
-### email
-    - vicudoh345@gmail.com
+### [email](vicudoh345@gmail.com)
 ### Twitter
     - @vic_magnifico
 

@@ -6,8 +6,12 @@
      - python
      - DevOpps
      - I am also learnig The Blockchain 
-- 💞️ I’m looking to collaborate on a project 
-- 📫 How to reach me ...
+## 💞️ I’m looking to collaborate on a project 
+## 📫 How to reach me ...
+     ### email
+         - vicudoh345@gmail.com
+     ### Twitter
+         - @vic_magnifico
 
 <!---
 logicSynth/logicSynth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @logicSynth
-- 👀 I’m interested in goLang and flutter 
-- 🌱 I’m currently learning goLang 
+# 👋 Hi, I’m Victor Udoh Eno
+- 👀 I’m a highly motivated self-studying developer
+- 🌱 I’m currently learning goLang, python and DevOpps 
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me ...
 
